@@ -1,0 +1,34 @@
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\bin\Debug\net6.0\Lab4.exe
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\bin\Debug\net6.0\Lab4.deps.json
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\bin\Debug\net6.0\Lab4.runtimeconfig.json
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\bin\Debug\net6.0\Lab4.dll
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\bin\Debug\net6.0\Lab4.pdb
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.csproj.AssemblyReference.cache
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.AssemblyInfoInputs.cache
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.AssemblyInfo.cs
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.dll
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\obj\Debug\net6.0\refint\Lab4.dll
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.pdb
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.genruntimeconfig.cache
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\obj\Debug\net6.0\ref\Lab4.dll
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\bin\Debug\net6.0\Microsoft.Office.Interop.Excel.dll
+C:\Users\alexb\Desktop\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.csproj.CopyComplete
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\bin\Debug\net6.0\Lab4.exe
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\bin\Debug\net6.0\Lab4.deps.json
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\bin\Debug\net6.0\Lab4.runtimeconfig.json
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\bin\Debug\net6.0\Lab4.dll
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\bin\Debug\net6.0\Lab4.pdb
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\bin\Debug\net6.0\Microsoft.Office.Interop.Excel.dll
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.csproj.AssemblyReference.cache
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.AssemblyInfoInputs.cache
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.AssemblyInfo.cs
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.csproj.CoreCompileInputs.cache
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.csproj.CopyComplete
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.dll
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\obj\Debug\net6.0\refint\Lab4.dll
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.pdb
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\obj\Debug\net6.0\Lab4.genruntimeconfig.cache
+D:\!Studing\3 Course\5 Sem\МоПТиМ\Lab4\Lab4\Lab4\Lab4\obj\Debug\net6.0\ref\Lab4.dll

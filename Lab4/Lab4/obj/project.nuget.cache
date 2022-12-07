@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PPYUs7kyaJJidVf9WCAxifWYAWEZm5zoDDbT96L6xEGsTPbvVcurABRiC1AjVUuRqqtSiKcGE24Gk42Apdq+8g==",
+  "success": true,
+  "projectFilePath": "D:\\!Studing\\3 Course\\5 Sem\\МоПТиМ\\Lab4\\Lab4\\Lab4\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\garku\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
